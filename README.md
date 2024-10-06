@@ -24,7 +24,7 @@ Currently a B.Tech first year CSE student at IIIT Sri City..I'm eager to explore
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
   <li>Having strong desire to learn about Technology and programming </li>
-  <li>Hobby:Listening Music </li>
+  <li>Hobby:Listening Music🎶🎶 </li>
   <li>I'm interested in AI and ML 🌐 </li>
 </ul>
 

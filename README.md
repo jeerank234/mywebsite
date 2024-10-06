@@ -9,7 +9,7 @@
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-Currently a B.Tech student at IIIT Sri City. With a strong enthusiasm for prograaming and problem solving.I'm eager to explore various facts of Tech industries.
+Currently a B.Tech first year CSE student at IIIT Sri City..I'm eager to explore various facts of Tech industries.
 
 </p>
 
@@ -23,9 +23,9 @@ Currently a B.Tech student at IIIT Sri City. With a strong enthusiasm for progra
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-  <li>I'm a night owl  🌙</li>
-  <li>Hobby: Listening Music </li>
-  <li>I'm interested in AI and ML 🌐</li>
+  <li>Having strong desire to learn about Technology and programming </li>
+  <li>Hobby:Listening Music </li>
+  <li>I'm interested in AI and ML 🌐 </li>
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Contact Me </h2>

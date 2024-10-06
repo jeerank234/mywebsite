@@ -9,7 +9,8 @@
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-Currently a B.Tech first year CSE student at IIIT Sri City..I'm eager to explore various facts of Tech industries.
+Currently a B.Tech first year CSE student at IIIT Sri City.
+I'm eager to explore various facts of Tech industries.
 
 </p>
 
